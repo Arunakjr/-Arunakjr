@@ -5,10 +5,10 @@
 I build low-level firmware and IoT systems that bridge microcontrollers, sensors, and wireless connectivity — currently focused on BLE-controlled power electronics and embedded product development.
 
 ##  Currently Working On
-Junior Embedded Engineer @ **Texawave Innovations Pvt. Ltd**
+Junior Embedded Engineer @**Texawave Innovations Pvt Ltd.**
 - IoT-based BLE-controlled fast charging system (ESP32)
 - Emergency caregiver alert device
-- Smart water management device
+- Smart water management 
 
 ##  Tech Stack
 | Category | Skills |
