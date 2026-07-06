@@ -20,4 +20,4 @@ Junior Embedded Engineer @ **Texawave Innovations Pvt. Ltd**
 | **Currently Learning** | RTOS, ESP-IDF, PCB Design |
 
 ## 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/arunkumar-g-akes143) · arunakeee03@gmail.com
+[LinkedIn](https://linkedin.com/in/arunkumar-g-akes143)
