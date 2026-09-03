@@ -17,7 +17,7 @@ Junior Embedded Engineer @**Texawave Innovations Pvt Ltd.**
 | **Microcontrollers** | STM32, ESP32, Arduino, ATMEGA , Avr |
 | **Protocols** | UART, SPI, I2C, I2S, MQTT, HTTP, BLE, Wi-Fi, Lorawan |
 | **Tools** | PlatformIO, STM32CubeIDE, Oscilloscope, Logic Analyzer, JTAG/SWD |
-| **Currently Learning** | RTOS, Zephyr, PCB Design |
+| **Currently Learning** | Free RTOS, Zephyr, PCB Design |
 
 ## 📫 Let's Connect
 [LinkedIn](https://linkedin.com/in/arunkumar-g-akes143)
